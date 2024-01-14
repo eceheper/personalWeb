@@ -1,0 +1,15 @@
+body  {
+  background-image: url("/images/bg1.bmp");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: scroll;
+
+  
+  }
+
+div {
+    width :300px;
+    border: 15 px solid magenta;
+    padding:50px;
+    margin: 20px;
+}
